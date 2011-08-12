@@ -1,0 +1,6 @@
+MT = {};
+
+MT.Util = (function() {
+
+
+}());
